@@ -1,0 +1,12 @@
+[programs.localnet]
+messitributesolanacontract = "Bs4SdFvqvYv2zndzEhNDdi1BUc9ffVjuNKpfy8Pf3P2a"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/sebitokazu/.config/solana/id.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"

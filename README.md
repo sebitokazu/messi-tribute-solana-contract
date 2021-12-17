@@ -1,6 +1,6 @@
 # Messi tribute portal dApp built on Solana
 
-LIVE @ Solana Devnet: https://my-first-nft-collection-on-chain-front.vercel.app/
+LIVE @ Solana Devnet: https://messi-tribute-solana-dapp-portal.vercel.app/
 
 
 Web3 dApp for sharing your fav moments of the GOAT and keep them forever on Solana's blockchain.
